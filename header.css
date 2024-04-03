@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(79, 206, 110);
+
+}
+.header ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
